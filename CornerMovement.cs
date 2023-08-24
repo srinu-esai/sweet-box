@@ -8,7 +8,7 @@ public class CornerMovement : MonoBehaviour
     // public bool isBool = true;
     // public float speed;
 
-    public GameObject myQuadIs;
+    public GameObject myQuadIsIs;
     public Vector2 myQuadPosition;
 
     public int mynInt, maxxInt;
